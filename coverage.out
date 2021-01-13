@@ -1,0 +1,19 @@
+mode: set
+raytrace/raytrace.go:26.13,32.35 4 0
+raytrace/raytrace.go:37.2,37.22 1 0
+raytrace/raytrace.go:32.35,36.3 3 0
+raytrace/raytrace.go:40.35,43.2 1 1
+raytrace/raytrace.go:45.45,51.2 5 0
+raytrace/raytrace.go:53.37,56.2 2 1
+raytrace/raytrace.go:58.37,61.2 2 1
+raytrace/raytrace.go:63.43,66.2 2 1
+raytrace/raytrace.go:68.49,71.2 2 1
+raytrace/raytrace.go:73.67,76.2 2 1
+raytrace/raytrace.go:78.56,81.2 2 0
+raytrace/raytrace.go:83.57,86.2 2 0
+raytrace/raytrace.go:88.34,90.2 1 1
+raytrace/raytrace.go:92.42,95.2 2 1
+raytrace/raytrace.go:97.33,101.2 3 1
+raytrace/raytrace.go:103.39,108.2 1 1
+raytrace/raytrace.go:110.38,115.2 1 1
+raytrace/raytrace.go:124.41,127.2 2 1
